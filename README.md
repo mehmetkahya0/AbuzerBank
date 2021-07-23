@@ -1,5 +1,6 @@
 # AbuzerBank
-A bank application running on the terminal I developed for entertainment purposes.
+
+A bank application running on the terminal I developed to improve myself.
 System language is Turkish
 
 If you want a new registered person name, you can add it to the "kisi" field in the code.
