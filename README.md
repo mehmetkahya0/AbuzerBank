@@ -1,4 +1,4 @@
-# AbuzerBank
+# AbuzerBank (WIP)
 
 A bank application running on the terminal. I developed to improve myself.
 System language is Turkish
